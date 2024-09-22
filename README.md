@@ -29,7 +29,7 @@ An intuitive and advanced tool for capturing and analyzing network packets in re
    ```
 3. Download or clone the repository:
    ```bash
-   git clone https://github.com/Jibinjoseph22/Advanced-Network-Packet-Analyzer.git
+   git clone https://github.com/Jibinjoseph22/Network-Packet-Analyzer.git
    ```
 4. Navigate to the project directory:
    ```bash
@@ -54,7 +54,7 @@ An intuitive and advanced tool for capturing and analyzing network packets in re
    ```
 3. Clone the repository:
    ```bash
-   git clone https://github.com/Jibinjoseph22/Advanced-Network-Packet-Analyzer.git
+   git clone https://github.com/Jibinjoseph22/Network-Packet-Analyzer.git
    ```
 4. Navigate to the project directory:
    ```bash
