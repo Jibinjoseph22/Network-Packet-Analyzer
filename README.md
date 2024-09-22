@@ -37,7 +37,7 @@ An intuitive and advanced tool for capturing and analyzing network packets in re
    ```
 5. Run the application:
    ```bash
-   python main.py
+   python packet_analyzer.py
    ```
 
 ### Linux
@@ -62,7 +62,7 @@ An intuitive and advanced tool for capturing and analyzing network packets in re
    ```
 5. Run the application:
    ```bash
-   python3 main.py
+   python3 packet_analyzer.py
    ```
 
 ## Usage
